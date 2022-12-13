@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ScMIVmKUTNq4gs1Ht8tmhlD7fNfI15lU4Zs4WkxoMwI=",
+  "Hash": "BFoa9WmyrYCwcTmQvxJpRk1VFatJajJLrFjjLTebGUI=",
   "Source": "TaimsalSAdeSV",
   "BasePath": "_content/TaimsalSAdeSV",
   "Mode": "Default",
@@ -100,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Cesar\\Desktop\\InterfazTAIMSAL\\TaimsalSAdeSV\\TaimsalSAdeSV\\wwwroot\\Img\\Image.jpg",
+      "SourceId": "TaimsalSAdeSV",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cesar\\Desktop\\InterfazTAIMSAL\\TaimsalSAdeSV\\TaimsalSAdeSV\\wwwroot\\",
+      "BasePath": "_content/TaimsalSAdeSV",
+      "RelativePath": "Img/Image.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Img\\Image.jpg"
     },
     {
       "Identity": "C:\\Users\\Cesar\\Desktop\\InterfazTAIMSAL\\TaimsalSAdeSV\\TaimsalSAdeSV\\wwwroot\\js\\app.js",

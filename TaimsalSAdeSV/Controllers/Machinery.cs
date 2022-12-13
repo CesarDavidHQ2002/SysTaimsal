@@ -12,5 +12,9 @@ namespace TaimsalSAdeSV.Controllers
         {
             return View();
         }
+        public IActionResult Trabajos()
+        {
+            return View();
+        }
     }
 }

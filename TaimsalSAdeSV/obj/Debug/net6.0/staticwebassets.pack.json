@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\TaimsalSAdeSV.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Cesar\\Desktop\\InterfazTAIMSAL\\TaimsalSAdeSV\\TaimsalSAdeSV\\wwwroot\\Img\\Image.jpg",
+      "PackagePath": "staticwebassets\\Img\\Image.jpg"
+    },
+    {
       "Id": "C:\\Users\\Cesar\\Desktop\\InterfazTAIMSAL\\TaimsalSAdeSV\\TaimsalSAdeSV\\wwwroot\\css\\estilos.css",
       "PackagePath": "staticwebassets\\css\\estilos.css"
     },
