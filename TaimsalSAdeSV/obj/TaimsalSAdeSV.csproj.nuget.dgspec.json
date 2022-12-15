@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Cesar\\Desktop\\InterfazTAIMSAL\\TaimsalSAdeSV\\TaimsalSAdeSV\\TaimsalSAdeSV.csproj": {}
+    "C:\\Users\\Marvin\\Desktop\\ddddd\\SysTaimsal\\TaimsalSAdeSV\\TaimsalSAdeSV.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Cesar\\Desktop\\InterfazTAIMSAL\\TaimsalSAdeSV\\TaimsalSAdeSV\\TaimsalSAdeSV.csproj": {
+    "C:\\Users\\Marvin\\Desktop\\ddddd\\SysTaimsal\\TaimsalSAdeSV\\TaimsalSAdeSV.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Cesar\\Desktop\\InterfazTAIMSAL\\TaimsalSAdeSV\\TaimsalSAdeSV\\TaimsalSAdeSV.csproj",
+        "projectUniqueName": "C:\\Users\\Marvin\\Desktop\\ddddd\\SysTaimsal\\TaimsalSAdeSV\\TaimsalSAdeSV.csproj",
         "projectName": "TaimsalSAdeSV",
-        "projectPath": "C:\\Users\\Cesar\\Desktop\\InterfazTAIMSAL\\TaimsalSAdeSV\\TaimsalSAdeSV\\TaimsalSAdeSV.csproj",
-        "packagesPath": "C:\\Users\\Cesar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Cesar\\Desktop\\InterfazTAIMSAL\\TaimsalSAdeSV\\TaimsalSAdeSV\\obj\\",
+        "projectPath": "C:\\Users\\Marvin\\Desktop\\ddddd\\SysTaimsal\\TaimsalSAdeSV\\TaimsalSAdeSV.csproj",
+        "packagesPath": "C:\\Users\\Marvin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Marvin\\Desktop\\ddddd\\SysTaimsal\\TaimsalSAdeSV\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Cesar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Marvin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

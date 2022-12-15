@@ -9,53 +9,53 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TaimsalSAdeSV
 build_property.RootNamespace = TaimsalSAdeSV
-build_property.ProjectDir = C:\Users\Cesar\Desktop\InterfazTAIMSAL\TaimsalSAdeSV\TaimsalSAdeSV\
+build_property.ProjectDir = C:\Users\Marvin\Desktop\ddddd\SysTaimsal\TaimsalSAdeSV\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Cesar\Desktop\InterfazTAIMSAL\TaimsalSAdeSV\TaimsalSAdeSV
+build_property.MSBuildProjectDirectory = C:\Users\Marvin\Desktop\ddddd\SysTaimsal\TaimsalSAdeSV
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Cesar/Desktop/InterfazTAIMSAL/TaimsalSAdeSV/TaimsalSAdeSV/Views/Contact/Index.cshtml]
+[C:/Users/Marvin/Desktop/ddddd/SysTaimsal/TaimsalSAdeSV/Views/Contact/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Cesar/Desktop/InterfazTAIMSAL/TaimsalSAdeSV/TaimsalSAdeSV/Views/Home/Index.cshtml]
+[C:/Users/Marvin/Desktop/ddddd/SysTaimsal/TaimsalSAdeSV/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Cesar/Desktop/InterfazTAIMSAL/TaimsalSAdeSV/TaimsalSAdeSV/Views/Home/Privacy.cshtml]
+[C:/Users/Marvin/Desktop/ddddd/SysTaimsal/TaimsalSAdeSV/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Cesar/Desktop/InterfazTAIMSAL/TaimsalSAdeSV/TaimsalSAdeSV/Views/Machinery/Index.cshtml]
+[C:/Users/Marvin/Desktop/ddddd/SysTaimsal/TaimsalSAdeSV/Views/Machinery/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFjaGluZXJ5XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Cesar/Desktop/InterfazTAIMSAL/TaimsalSAdeSV/TaimsalSAdeSV/Views/Machinery/Portafolio.cshtml]
+[C:/Users/Marvin/Desktop/ddddd/SysTaimsal/TaimsalSAdeSV/Views/Machinery/Portafolio.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFjaGluZXJ5XFBvcnRhZm9saW8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Cesar/Desktop/InterfazTAIMSAL/TaimsalSAdeSV/TaimsalSAdeSV/Views/Machinery/Trabajos.cshtml]
+[C:/Users/Marvin/Desktop/ddddd/SysTaimsal/TaimsalSAdeSV/Views/Machinery/Trabajos.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFjaGluZXJ5XFRyYWJham9zLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Cesar/Desktop/InterfazTAIMSAL/TaimsalSAdeSV/TaimsalSAdeSV/Views/Shared/Error.cshtml]
+[C:/Users/Marvin/Desktop/ddddd/SysTaimsal/TaimsalSAdeSV/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Cesar/Desktop/InterfazTAIMSAL/TaimsalSAdeSV/TaimsalSAdeSV/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Marvin/Desktop/ddddd/SysTaimsal/TaimsalSAdeSV/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Cesar/Desktop/InterfazTAIMSAL/TaimsalSAdeSV/TaimsalSAdeSV/Views/_ViewImports.cshtml]
+[C:/Users/Marvin/Desktop/ddddd/SysTaimsal/TaimsalSAdeSV/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Cesar/Desktop/InterfazTAIMSAL/TaimsalSAdeSV/TaimsalSAdeSV/Views/_ViewStart.cshtml]
+[C:/Users/Marvin/Desktop/ddddd/SysTaimsal/TaimsalSAdeSV/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Cesar/Desktop/InterfazTAIMSAL/TaimsalSAdeSV/TaimsalSAdeSV/Views/Shared/_Layout.cshtml]
+[C:/Users/Marvin/Desktop/ddddd/SysTaimsal/TaimsalSAdeSV/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-qpa7qj4ly0
